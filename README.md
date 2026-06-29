@@ -1,8 +1,3 @@
----
-
-## ✅ CORRECT (what you should paste)
-
-Paste this directly into `README.md` **WITHOUT any backticks at the top or bottom**:
 
 ---
 
