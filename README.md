@@ -75,9 +75,8 @@ Typing trainer with speed, accuracy tracking, and gamified lessons.
 
 ---
 
-### 📈 Nova Fintech (Flutter)
-Mobile-first investment platform with real-time market data and portfolio tracking.
-
+### 📈 Eshetalehu (Flutter)
+Marketplace application that connects buyers and sellers of used goods in a secure environment with real-time chat.
 **Tech:** Flutter • Riverpod • WebSocket • Firebase
 
 ---
