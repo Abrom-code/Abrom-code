@@ -5,7 +5,7 @@
 
 # Hi there, I'm Abrham 👋
 
-### Software Engineering Student • Flutter Developer • Full-Stack Developer • Cloud Enthusiast
+### Software Engineering Student • Flutter Developer • Full-Stack Developer 
 
 I'm a Software Engineering student passionate about building modern mobile and web applications that solve real-world problems. I enjoy creating intuitive user experiences, scalable backend systems, and continuously learning new technologies.
 
@@ -105,14 +105,12 @@ Distributed ride management system using multithreading and networking.
 ## 🌱 Currently Learning
 - Advanced Flutter Architecture  
 - Next.js  
-- AWS Cloud  
-- System Design  
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link  
+- LinkedIn: linkedin.com/in/abrham-nega-863787340
 - Email: mailto:gmikael1908@gmail.com  
 
 ---
