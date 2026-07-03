@@ -90,10 +90,7 @@ Distributed ride management system using multithreading and networking.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abrom-code&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrom-code&layout=compact&theme=tokyonight"/>
-</p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Abrom-code&theme=tokyonight"/>
