@@ -100,7 +100,8 @@ Distributed ride management system using multithreading and networking.
 
 ## 🌱 Currently Learning
 - Advanced Flutter Architecture  
-- Next.js  
+- Next.js
+- Data Structure & Algorithms
 
 ---
 
