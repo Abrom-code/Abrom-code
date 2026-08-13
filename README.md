@@ -1,11 +1,8 @@
-
----
-
 <div align="center">
 
 # Hi there, I'm Abrham 👋
 
-### Software Engineering Student • Flutter Developer • Full-Stack Developer 
+### Software Engineering Student • Flutter Developer • Full-Stack Developer
 
 I'm a Software Engineering student passionate about building modern mobile and web applications that solve real-world problems. I enjoy creating intuitive user experiences, scalable backend systems, and continuously learning new technologies.
 
@@ -21,38 +18,43 @@ I'm a Software Engineering student passionate about building modern mobile and w
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering Student  
-- 📱 Flutter Mobile Developer  
-- ⚛️ React & Next.js Developer  
-- ☁️ Learning AWS Cloud  
-- 🏗️ Interested in System Design & Scalable Apps  
-- 🚀 Always building and learning  
+* 🎓 Software Engineering Student
+* 📱 Flutter Mobile Developer
+* ⚛️ React & Next.js Developer
+* ☁️ Learning AWS Cloud
+* 🏗️ Interested in System Design & Scalable Applications
+* 🚀 Always building, learning, and experimenting
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=dart,java,python,js,ts,cpp" />
 </p>
 
 ### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,html,css,tailwind" />
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
 </p>
 
 ### Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
 </p>
 
-### Tools
+### Tools & Cloud
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vscode" />
 </p>
@@ -61,57 +63,92 @@ I'm a Software Engineering student passionate about building modern mobile and w
 
 ## 🚀 Featured Projects
 
-### 🎓 Matric Exam Preparation Platform (Flutter)
-Topic-based learning system for Grade 9–12 students with mock exams and progress tracking.
+### 🎓 Matric Exam Preparation Platform
+
+Topic-based learning platform for Grade 9–12 students with mock exams and progress tracking.
 
 **Tech:** Flutter • Firebase • Provider
 
 ---
 
-### ⌨️ Typing Practice Platform (React)
+### ⌨️ Typing Practice Platform
+
 Typing trainer with speed, accuracy tracking, and gamified lessons.
 
 **Tech:** React • TypeScript • Firebase
 
 ---
 
-### 📈 Eshetalehu (Flutter)
-Marketplace application that connects buyers and sellers of used goods in a secure environment with real-time chat.
+### 📈 Eshetalehu
+
+Marketplace application connecting buyers and sellers of used goods with real-time chat.
+
 **Tech:** Flutter • Riverpod • WebSocket • Firebase
 
 ---
 
-### 💼 EthioRide System (Java)
-Distributed ride management system using multithreading and networking.
+### 💼 EthioRide System
+
+Distributed ride management system built with Java networking and multithreading.
 
 **Tech:** Java • Socket Programming • Concurrency
 
 ---
 
-## 📊 GitHub Stats
-
-
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Abrom-code&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abrom-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrom-code&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abrom-code&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abrom-code&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Flutter Architecture  
-- Next.js
-- Data Structure & Algorithms
+
+* Advanced Flutter Architecture
+* Next.js
+* Data Structures & Algorithms
+* AWS & Cloud Computing
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-- LinkedIn: linkedin.com/in/abrham-nega-863787340
-- Email: mailto:gmikael1908@gmail.com  
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abrham-nega-863787340">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:gmikael1908@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/Abrom-code">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+</p>
+
+📧 **Email:** [gmikael1908@gmail.com](mailto:gmikael1908@gmail.com)
+💼 **LinkedIn:** [Abrham Nega](https://www.linkedin.com/in/abrham-nega-863787340)
+💻 **GitHub:** [Abrom-code](https://github.com/Abrom-code)
 
 ---
 
-💡 *"Building software that makes a difference, one project at a time."*
+<div align="center">
 
----
+💡 *Building software that makes a difference, one project at a time.*
+
+</div>
